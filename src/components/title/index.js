@@ -5,7 +5,7 @@ export default function Titulo() {
     return(
         <View>
             <Text>
-               HEALTH APP...
+               HEALTH APP
             </Text>
         </View>
     );
