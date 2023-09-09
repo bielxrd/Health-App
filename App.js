@@ -1,10 +1,12 @@
 import React from 'react'
 import { StyleSheet, Text, View } from 'react-native';
 import Titulo from './src/components/title';
+import Main from './src/components/Main';
 export default function App() {
   return (
     <View style={styles.container}>
       <Titulo></Titulo>
+      <Main></Main>
     </View>
     
   );
